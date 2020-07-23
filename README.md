@@ -5,5 +5,5 @@ The contributions Game
 
 02. https://github.com/axios/axios/issues/3055 WIP
 
-03. https://github.com/NARCOTIC/Instagram-Bulk-Delete/issues/1 merged
+03. https://github.com/NARCOTIC/Instagram-Bulk-Delete/pull/2 merged
 
